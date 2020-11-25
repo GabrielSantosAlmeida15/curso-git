@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.exe
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.deps.json
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.runtimeconfig.json
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.dll
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\bin\Debug\netcoreapp3.1\projetoTesteGit.pdb
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.dll
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.pdb
+C:\Users\Gabriel\source\repos\projetoTesteGit\projetoTesteGit\obj\Debug\netcoreapp3.1\projetoTesteGit.genruntimeconfig.cache
